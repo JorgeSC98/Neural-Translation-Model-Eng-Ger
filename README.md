@@ -7,4 +7,4 @@ The project output will be as the following:
 
 The architecture used for this project is an encoder-decoder RNN:
 ![Translation example](https://github.com/JorgeSC98/Neural-Translation-Model-Eng-Ger/blob/main/Architecture2.png?raw=true)
-
+This photo was taken from the Deep Learning  course by Coursera and London College.
